@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MhdiGholami](https://github.com/MhdiGholami)
 
-- 💬 Ask me about **React,Javascript,Bootstrap,Html,Css3**
+- 💬 Ask me about **React,Javascript,Html,Css3,Ceo,...**
 
 - 📫 How to reach me **mahdi.gholami8182@gmail.com**
 
